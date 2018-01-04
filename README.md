@@ -1,10 +1,9 @@
-# webpack
-# fichier de configuration de bases avec webpack
-# moteur de template par default: "EJS"
+## webpack && configuration
+* moteur de template par default: "EJS"
 
--npm install
--npm run dev (fichier non minifié)
--npm run prod (fichier minifié)
+- npm install
+- npm run dev (fichier non minifié)
+- npm run prod (fichier minifié)
   
 #config
 
